@@ -5,23 +5,23 @@ A dos batch
 Process bilingual subtitles in SRT format with different custom font styles
 <br>
 <br>
-![original subtitle](https://github.com/Dao28/split_srt/blob/images/images/play_srt.png?raw=true)
+![original subtitle](https://github.com/Dao28/split_srt/blob/main/images/play_srt.png?raw=true)
 <br>
-![batched subtitle](https://github.com/Dao28/split_srt/blob/images/images/play_srt_modify.png?raw=true)
+![batched subtitle](https://github.com/Dao28/split_srt/blob/main/images/play_srt_modify.png?raw=true)
 <br>
 <br>
 
 1. Open the bat, edit the custom font style on lines 11 and 12, such as color, font size, and save the bat.
 <br>
-![change style](https://github.com/Dao28/split_srt/blob/images/images/01.png?raw=true)
+![change style](https://github.com/Dao28/split_srt/blob/main/images/01.png?raw=true)
 <br>
 <br>
 
 2. Through https://www.downloadyoutubesubtitles.com/ Enter the YouTube video link, press enter, and the website will start parsing subtitles. After parsing, at the bottom left corner of the webpage, there will be an option to merge subtitles from different languages into bilingual subtitles. After selecting different languages, click the option button for different subtitle formats to download the bilingual subtitle document. 
 <br>
-![youtube srt](https://github.com/Dao28/split_srt/blob/images/images/02.png?raw=true)
+![youtube srt](https://github.com/Dao28/split_srt/blob/main/images/02.png?raw=true)
 <br>
-![bilingual subtitles](https://github.com/Dao28/split_srt/blob/images/images/02b.png?raw=true)
+![bilingual subtitles](https://github.com/Dao28/split_srt/blob/main/images/02b.png?raw=true)
 <br>
 <br>
 <br>
@@ -29,9 +29,9 @@ Process bilingual subtitles in SRT format with different custom font styles
 3. Drag and drop single or multiple SRT format bilingual subtitle documents onto the bat, wait for a moment, and you will be able to get SRT bilingual subtitles with custom text formats and their original subtitle backups.
 <br>
 <br>
-![subtitle start](https://github.com/Dao28/split_srt/blob/images/images/ok_start.png?raw=true)
+![subtitle start](https://github.com/Dao28/split_srt/blob/main/images/ok_start.png?raw=true)
 <br>
-![subtitle end](https://github.com/Dao28/split_srt/blob/images/images/ok_end.png?raw=true)
+![subtitle end](https://github.com/Dao28/split_srt/blob/main/images/ok_end.png?raw=true)
 <br>
 <br>
 ps: 
@@ -40,9 +40,9 @@ You can annotate lines 93-96 or 98-101 with REM to output SRT subtitles for diff
 <br>
 Alternatively, by swapping the order of these two code blocks, different subtitles in different languages can be displayed in different positions on up or on down on the screen based on the code's execution order.
 <br>
-![english block](https://github.com/Dao28/split_srt/blob/images/images/03.png?raw=true)
+![english block](https://github.com/Dao28/split_srt/blob/main/images/03.png?raw=true)
 <br>
-![chinese block](https://github.com/Dao28/split_srt/blob/images/images/04.png?raw=true)
+![chinese block](https://github.com/Dao28/split_srt/blob/main/images/04.png?raw=true)
 <br>
 <br>
 You're welcome to freely use and expand this bat script document, thank you.
